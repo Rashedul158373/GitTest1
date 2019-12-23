@@ -80,6 +80,8 @@ public class AddListData extends AppCompatActivity {
                                     motherName.setText("");
                                     nidNumber.setText("");
                                     address.setText("");
+
+                                    //gfjhbjkyug
                                 }
 
                             }
